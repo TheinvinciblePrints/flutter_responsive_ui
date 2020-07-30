@@ -5,7 +5,8 @@ This is a responsive flutter starter project
 ## Getting Started
 
 This is a simple flutter project that gives user the option to choose either portrait or landscape view of list of albums.
-Fetched from [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com) - a fake API provider
+Fetched from [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com) - a fake API provider.
+There are three (3) build environment [DEVELOPMENT, PRODUCTION, QA]
 
 ## 💻 Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
