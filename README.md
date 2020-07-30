@@ -1,16 +1,41 @@
-# flutter_responsive_ui
+# Flutter Responsive UI
 
-A new Flutter application.
+This is a responsive flutter starter project 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a simple flutter project that gives user the option to choose either portrait or landscape view of list of albums.
+Fetched from [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com) - a fake API provider
 
-A few resources to get you started if this is your first Flutter project:
+## 💻 Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter
+* A brain to think 🤓🤓
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## ✨ Features
+- [x] Portrait View.
+- [x] Landscape View.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 📸 ScreenShots
+
+## Portrait
+<img src="screenshots/portrait.png" width="250" height="445"/>
+
+## Landscape
+<img src="screenshots/landscape.png" width="445" height="250"/>
+
+
+## 🔌 Plugins
+| Name | Usage |
+|------|-------|
+|[**Scoped Model**](https://pub.dev/packages/scoped_model)| State Management|
+|[**Connectivity**](https://pub.dev/packages/connectivity)| Internet Connection|
+|[**Provider**](https://pub.dev/packages/provider)| Listening to Instant Internet Connection Changes|
+|[**GetIt**](https://pub.dev/packages/get_it)| Service Locator |
+|[**Http**](https://pub.dev/packages/http)| HTTP Requests|
+
+
+## 🤓 Author
+**Emmanuel Iwearu** 
